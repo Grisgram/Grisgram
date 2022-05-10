@@ -1,6 +1,11 @@
-![demons logo](https://github.com/Grisgram/Grisgram/blob/main/images/demons.png) &nbsp;&nbsp;&nbsp; ![mbar logo](https://github.com/Grisgram/Grisgram/blob/main/images/mbar.png) &nbsp;&nbsp;&nbsp; ![indie logo](https://github.com/Grisgram/Grisgram/blob/main/images/indie.png)
+<p align="center">
+  <img src="https://github.com/Grisgram/Grisgram/blob/main/images/demons.png" />
+  <img src="https://github.com/Grisgram/Grisgram/blob/main/images/mbar.png" />
+  <img src="https://github.com/Grisgram/Grisgram/blob/main/images/indie.png" />
+</p>
 
-I develop and publish software under different labels, working as a developer since the 1980's.<br>You can reach me as **Haerion** on [GameMaker Kitchen Discord](https://discord.gg/8krYCqr).
+I develop and publish software under different labels, working as a developer since the 1980's.<br>You can reach me as **Haerion** on [GameMaker Kitchen Discord](https://discord.gg/8krYCqr).</p>
+
 |-|-|
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
 | ![demons logo](https://github.com/Grisgram/Grisgram/blob/main/images/demons_eye.png) | [RisingDemons](https://www.risingdemons.com) is the home for my Games. (Currently active developing games)|
