@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I develop and publish software under different labels, working as a developer since the 1980's.
+
+
+
 <!--
 **Grisgram/Grisgram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
