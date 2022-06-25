@@ -6,7 +6,7 @@
 
 | | 
 |:--:|
-| I develop and publish software under different labels, working as a developer since the 1980's.<br>You can reach me as **Haerion** on [GameMaker Kitchen Discord](https://discord.gg/8krYCqr). |
+| I develop and publish software under different labels, working as a developer since the 1980's.<br>You can reach me as **@Haerion** on [GameMaker Kitchen Discord](https://discord.gg/8krYCqr). |
 
 
 | | |
