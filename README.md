@@ -17,7 +17,7 @@
 | ![indie logo](https://github.com/Grisgram/Grisgram/blob/main/images/chuck.png) | indievidualGames is my former game label. It might be back one day! |
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grisgram&show_icons=true&theme=material-palenight)
 
 
 
