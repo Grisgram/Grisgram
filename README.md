@@ -10,7 +10,7 @@
 
 | | 
 |:--:|
-| In case you are a night owl like me and you want to support my work, especially the [gml-raptor platform for GameMaker](https://github.com/Grisgram/gml-raptor),<br/>spend me a coffee through PayPal. <p><a href="https://www.paypal.com/donate/?hosted_button_id=PL8VA5UFCPMK6" target="_blank"><img src="https://user-images.githubusercontent.com/19487451/207885573-17bddf9f-2b3e-4720-a54f-a1b7b4b201f5.png" /></a></p> Thank you! |
+| In case you are a night owl like me and you want to support my work, especially the [gml-raptor platform for GameMaker](https://github.com/Grisgram/gml-raptor),<br/>spend me a coffee through PayPal. <p><a href="https://www.paypal.com/donate/?hosted_button_id=PL8VA5UFCPMK6" target="_blank"><img src="https://github.com/Grisgram/Grisgram/blob/main/images/paypal_donate.gif" /></a></p> Thank you! |
 
 | | |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
