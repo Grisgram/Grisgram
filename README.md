@@ -1,7 +1,9 @@
 <p>
   <a href="https://www.coldrock.games" target="_blank"><img src="https://github.com/Grisgram/Grisgram/blob/main/images/coldrock.png" />
 </p>
-
+<p align="center">
+I develop and publish software under different labels, working as a developer since the 1980's.<br>You can reach me as <strong>@Haerion</strong> on <a href="https://discord.gg/8krYCqr">GameMaker Kitchen Discord]</a><br/>To support my work, please ⭐ the repositories you clone. The more reach the libraries geht, the better and faster they can evolve!
+</p>
 | | 
 |:--:|
 | I develop and publish software under different labels, working as a developer since the 1980's.<br>You can reach me as **@Haerion** on [GameMaker Kitchen Discord](https://discord.gg/8krYCqr).<br/>To support my work, please ⭐ the repositories you clone. The more reach the libraries geht, the better and faster they can evolve! |
@@ -13,7 +15,7 @@
 | | |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
 | ![itch48](https://github.com/Grisgram/Grisgram/blob/main/images/itch48.png) | See all the jam games I made here on my itch-page [https://grisgram.itch.io/](https://grisgram.itch.io/).
-| ![coldrock favicon48](https://github.com/Grisgram/Grisgram/blob/main/images/coldrock_favicon48.png) | [RisingDemons](https://www.risingdemons.com) is the home for my Games. (Currently active developing games)|
+| ![coldrock favicon48](https://github.com/Grisgram/Grisgram/blob/main/images/coldrock_favicon48.png) | [ColdrockGames](https://www.coldrock.games) is the home for my Games. (Currently active developing games)|
 | ![mbar logo](https://github.com/Grisgram/Grisgram/blob/main/images/mbar_m.png) | [mbarSoftware](https://play.google.com/store/apps/dev?id=8162011393461804761) is the label for my Android Apps on Google Play. (Currently not so active, I do more games these days)|
 
 
