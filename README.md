@@ -12,8 +12,8 @@
 
 | | |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| ![itch](https://github.com/Grisgram/Grisgram/blob/main/images/itch.png) | See all the jam games I made here on my itch-page [https://grisgram.itch.io/](https://grisgram.itch.io/).
-| ![coldrock favicon](https://github.com/Grisgram/Grisgram/blob/main/images/coldrock_favicon.png) | [RisingDemons](https://www.risingdemons.com) is the home for my Games. (Currently active developing games)|
+| ![itch48](https://github.com/Grisgram/Grisgram/blob/main/images/itch.png) | See all the jam games I made here on my itch-page [https://grisgram.itch.io/](https://grisgram.itch.io/).
+| ![coldrock favicon48](https://github.com/Grisgram/Grisgram/blob/main/images/coldrock_favicon.png) | [RisingDemons](https://www.risingdemons.com) is the home for my Games. (Currently active developing games)|
 | ![mbar logo](https://github.com/Grisgram/Grisgram/blob/main/images/mbar_m.png) | [mbarSoftware](https://play.google.com/store/apps/dev?id=8162011393461804761) is the label for my Android Apps on Google Play. (Currently not so active, I do more games these days)|
 
 
