@@ -1,7 +1,5 @@
 <p>
-  <a href="https://www.risingdemons.com" target="_blank"><img src="https://github.com/Grisgram/Grisgram/blob/main/images/demons.png" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://play.google.com/store/apps/dev?id=8162011393461804761" target="_blank"><img src="https://github.com/Grisgram/Grisgram/blob/main/images/mbar.png" /></a>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Grisgram/Grisgram/blob/main/images/indie.png" />
+  <a href="https://www.coldrock.games" target="_blank"><img src="https://github.com/Grisgram/Grisgram/blob/main/images/coldrock.png" />
 </p>
 
 | | 
