@@ -10,7 +10,7 @@ In case you are a night owl like me and you want to support my work, especially 
 | | |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
 | ![itch48](https://github.com/Grisgram/Grisgram/blob/main/images/itch48.png) | See all the jam games I made here on my itch-page [https://grisgram.itch.io/](https://grisgram.itch.io/).
-| ![coldrock favicon48](https://github.com/Grisgram/Grisgram/blob/main/images/coldrock_favicon48.png) | [ColdrockGames](https://www.coldrock.games) is the home for my Games. (Currently active developing games)|
+| ![coldrock favicon48](https://github.com/Grisgram/Grisgram/blob/main/images/coldrock_favicon48.png) | [www.coldrock.games](https://www.coldrock.games) is the home for my Games. (Currently active developing games)|
 | ![mbar logo](https://github.com/Grisgram/Grisgram/blob/main/images/mbar_m.png) | [mbarSoftware](https://play.google.com/store/apps/dev?id=8162011393461804761) is the label for my Android Apps on Google Play. (Currently not so active, I do more games these days)|
 
 
