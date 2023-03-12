@@ -3,14 +3,10 @@
 </p>
 <p align="center">
 I develop and publish software under different labels, working as a developer since the 1980's.<br>You can reach me as <strong>@Haerion</strong> on <a href="https://discord.gg/8krYCqr">GameMaker Kitchen Discord]</a><br/>To support my work, please ⭐ the repositories you clone. The more reach the libraries geht, the better and faster they can evolve!
+<hr/>
+<br/>
+In case you are a night owl like me and you want to support my work, especially the [gml-raptor platform for GameMaker](https://github.com/Grisgram/gml-raptor),<br/>spend me a coffee through PayPal. <p><a href="https://www.paypal.com/donate/?hosted_button_id=PL8VA5UFCPMK6" target="_blank"><img src="https://github.com/Grisgram/Grisgram/blob/main/images/paypal_donate.gif" /></a></p> Thank you!
 </p>
-| | 
-|:--:|
-| I develop and publish software under different labels, working as a developer since the 1980's.<br>You can reach me as **@Haerion** on [GameMaker Kitchen Discord](https://discord.gg/8krYCqr).<br/>To support my work, please ⭐ the repositories you clone. The more reach the libraries geht, the better and faster they can evolve! |
-
-| | 
-|:--:|
-| In case you are a night owl like me and you want to support my work, especially the [gml-raptor platform for GameMaker](https://github.com/Grisgram/gml-raptor),<br/>spend me a coffee through PayPal. <p><a href="https://www.paypal.com/donate/?hosted_button_id=PL8VA5UFCPMK6" target="_blank"><img src="https://github.com/Grisgram/Grisgram/blob/main/images/paypal_donate.gif" /></a></p> Thank you! |
 
 | | |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
