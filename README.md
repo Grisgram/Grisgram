@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.coldrock.games" target="_blank"><img src="https://github.com/Grisgram/Grisgram/blob/main/images/coldrock.png" />
+  <a href="https://www.coldrock.games" target="_blank"><img src="https://github.com/Grisgram/Grisgram/blob/main/images/coldrock_banner.png" />
 </p>
 <p align="center">
 I develop and publish software under different labels, working as a developer since the 1980's.<br>You can reach me as <strong>@Haerion</strong> on <a href="https://discord.gg/8krYCqr">GameMaker Kitchen Discord]</a><br/>To support my work, please ⭐ the repositories you clone. The more reach the libraries geht, the better and faster they can evolve!
