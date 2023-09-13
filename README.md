@@ -14,9 +14,6 @@ In case you are a night owl like me and you want to support my work, especially 
 | ![mbar logo](https://github.com/Grisgram/Grisgram/blob/main/images/mbar_m.png) | [mbarSoftware](https://play.google.com/store/apps/dev?id=8162011393461804761) is the label for my Android Apps on Google Play. (Currently not so active, I do more games these days)|
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grisgram&show_icons=true&theme=material-palenight)
-
-
 
 <!--
 **Grisgram/Grisgram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
