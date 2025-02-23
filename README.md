@@ -1,9 +1,9 @@
+<h1>Founder of</h1><br/>
 <p align="center">
-  Founder of<br/>
   <a href="https://www.coldrock.games" target="_blank"><img src="https://github.com/Grisgram/Grisgram/blob/main/images/coldrock_banner.png" />
 </p>
 <p align="center">
-As my main project, <a href="https://github.com/Grisgram/gml-raptor">gml-raptor</a>, grew stronger and stronger,<br/>me and three friends of mine, all highly skilled developers and designers,<br/>grouped together and we formed our company coldrock.games.<br/>
+As my main project, <a href="https://github.com/Grisgram/gml-raptor">gml-raptor</a>, grew stronger and stronger,<br/>me and three friends of mine, <a href="https://github.com/kikerikiki">@kiki</a>, <a href="https://github.com/RobertSkokic">@Breezy</a> and <a href="https://github.com/MaxLab2002">@MaxLab2002</a>, all highly skilled developers and designers,<br/>grouped together and we formed our company coldrock.games.<br/>
 raptor is our key component in development and I want to invite you to give it a try!
 </p>
 <p align="center">
