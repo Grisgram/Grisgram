@@ -3,7 +3,7 @@
   <a href="https://www.coldrock.games" target="_blank"><img src="https://github.com/Grisgram/Grisgram/blob/main/images/coldrock_banner.png" />
 </p>
 <p align="center">
-As my main project, <a href="https://github.com/Grisgram/gml-raptor">gml-raptor</a>, grew stronger and stronger, we formed our company coldrock.games<br/>.
+As my main project, <a href="https://github.com/Grisgram/gml-raptor">gml-raptor</a>, grew stronger and stronger, we formed our company coldrock.games.<br/>
 raptor is our key component in development and I want to invite you to give it a try!
 </p>
 <p align="center">
