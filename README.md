@@ -7,7 +7,7 @@ As my main project, <a href="https://github.com/Grisgram/gml-raptor">gml-raptor<
 raptor is our key component in development and I want to invite you to give it a try!
 </p>
 <p align="center">
-As a consequence of creating our own business, most of my personal repositories have been moved to the <a href="https://github.com/coldrockgames">coldrock.games github organization</a><br/>
+As a consequence of creating our own business, most of my personal repositories have been moved to the<br/><a href="https://github.com/coldrockgames">coldrock.games github organization</a><br/>
 Please follow us there to see all our releases and update your bookmarks to the wikis, if you have some.
 </p>
 <p align="center">
