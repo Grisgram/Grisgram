@@ -1,8 +1,17 @@
 <p align="center">
+  Founder of<br/>
   <a href="https://www.coldrock.games" target="_blank"><img src="https://github.com/Grisgram/Grisgram/blob/main/images/coldrock_banner.png" />
 </p>
 <p align="center">
-I develop and publish software under different labels, working as a developer since the 1980's.<br>You can reach me as <strong>@Grisgram</strong> on <a href="https://discord.gg/8krYCqr">GameMaker Kitchen Discord</a><br/>To support my work, please ⭐ the repositories you clone. The more reach the libraries geht, the better and faster they can evolve!
+As my main project, <a href="https://github.com/Grisgram/gml-raptor">gml-raptor</a>, grew stronger and stronger, we formed our company coldrock.games<br/>.
+raptor is our key component in development and I want to invite you to give it a try!
+</p>
+<p align="center">
+As a consequence of creating our own business, most of my personal repositories have been moved to the <a href="https://github.com/coldrockgames">coldrock.games github organization</a><br/>
+Please follow us there to see all our releases and update your bookmarks to the wikis, if you have some.
+</p>
+<p align="center">
+Personally, I develop and publish software under different labels, working as a developer since the 1980's.<br>You can reach me as <strong>@Grisgram</strong> on <a href="https://discord.gg/8krYCqr">GameMaker Kitchen Discord</a><br/>To support my work, please ⭐ the repositories you clone. The more reach the libraries geht, the better and faster they can evolve!
 </p><hr/><p align="center">
 In case you are a night owl like me and you want to support my work, especially the <a href="https://github.com/Grisgram/gml-raptor">gml-raptor platform for GameMaker</a>,<br/>spend me a coffee through PayPal. <p align="center"><a href="https://www.paypal.com/donate/?hosted_button_id=PL8VA5UFCPMK6" target="_blank"><img src="https://github.com/Grisgram/Grisgram/blob/main/images/paypal_donate.gif" /></a></p><p align="center">Thank you!</p>
 </p>
