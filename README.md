@@ -15,12 +15,12 @@ Personally, I develop and publish software under different labels, working as a 
 </p><hr/><p align="center">
 In case you are a night owl like me and you want to support my work, especially the <a href="https://github.com/Grisgram/gml-raptor">gml-raptor platform for GameMaker</a>,<br/>spend me a coffee through PayPal. <p align="center"><a href="https://www.paypal.com/donate/?hosted_button_id=PL8VA5UFCPMK6" target="_blank"><img src="https://github.com/Grisgram/Grisgram/blob/main/images/paypal_donate.gif" /></a></p><p align="center">Thank you!</p>
 </p>
-    
-| | | |
-|---|:-:|---|
-|| ![GitHub Streak](https://streak-stats.demolab.com/?user=Grisgram&theme=dark&background=0D1117&hide_border=true&border=4080FF&ring=4080FF&currStreakLabel=3060DD&fire=4080FF)||
-|| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Grisgram&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3060DD&icon_color=4080FF)||
-|| ![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Grisgram&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3060DD)||
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=Grisgram&theme=dark&background=0D1117&hide_border=true&border=4080FF&ring=4080FF&currStreakLabel=3060DD&fire=4080FF"/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Grisgram&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3060DD&icon_color=4080FF)"/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grisgram&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3060DD)"/>
+</p>
 
 | | |
 |---|---|
