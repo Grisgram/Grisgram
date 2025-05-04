@@ -7,7 +7,7 @@ As my main project, <a href="https://github.com/Grisgram/gml-raptor">gml-raptor<
 raptor is our key component in development and I want to invite you to give it a try!
 </p>
 
-### 👨‍🚀 The Coldrock Founders
+### 👨‍🚀 The Coldrock Founders in Alphabetical Order
 
 | ![@Breezy](https://github.com/RobertSkokic.png?size=100) | ![@Grisgram](https://github.com/Grisgram.png?size=100) | ![@Hawk](https://github.com/MaxLab2002.png?size=100) | ![@Kiki](https://github.com/kikerikiki.png?size=100) |
 |:--:|:--:|:--:|:--:|
