@@ -6,6 +6,13 @@
 As my main project, <a href="https://github.com/Grisgram/gml-raptor">gml-raptor</a>, grew stronger and stronger,<br/>me and three friends of mine, <a href="https://github.com/kikerikiki">@kiki</a>, <a href="https://github.com/RobertSkokic">@Breezy</a> and <a href="https://github.com/MaxLab2002">@MaxLab2002</a>,<br/>all highly skilled developers and designers,<br/>grouped together and we formed our company coldrock.games.<br/>
 raptor is our key component in development and I want to invite you to give it a try!
 </p>
+
+### 👨‍🚀 The Coldrock Founders
+
+| ![@Breezy](https://github.com/RobertSkokic.png?size=100) | ![@Kiki](https://github.com/kikerikiki.png?size=100) | ![@Grisgram](https://github.com/Grisgram.png?size=100) | ![@Hawk](https://github.com/MaxLab2002.png?size=100) |
+|:--:|:--:|:--:|:--:|
+| [@Breezy](https://github.com/RobertSkokic) | [@Kiki](https://github.com/kikerikiki) | [@Grisgram](https://github.com/Grisgram) | [@Hawk](https://github.com/MaxLab2002) | 
+    
 <p align="center">
 As a consequence of creating our own business, most of my personal repositories have been moved to the<br/><a href="https://github.com/coldrockgames">coldrock.games github organization</a><br/>
 Please follow us there to see all our releases and update your bookmarks to the wikis, if you have some.
@@ -15,6 +22,7 @@ Personally, I develop and publish software under different labels, working as a 
 </p><hr/><p align="center">
 In case you are a night owl like me and you want to support my work, especially the <a href="https://github.com/Grisgram/gml-raptor">gml-raptor platform for GameMaker</a>,<br/>spend me a coffee through PayPal. <p align="center"><a href="https://www.paypal.com/donate/?hosted_button_id=PL8VA5UFCPMK6" target="_blank"><img src="https://github.com/Grisgram/Grisgram/blob/main/images/paypal_donate.gif" /></a></p><p align="center">Thank you!</p>
 </p>
+
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=Grisgram&theme=dark&background=0D1117&hide_border=true&border=4080FF&ring=4080FF&currStreakLabel=3060DD&fire=4080FF"/><br/>
