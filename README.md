@@ -24,7 +24,7 @@ Personally, I develop and publish software under different labels, working as a 
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=Grisgram&theme=dark&background=0D1117&hide_border=true&border=4080FF&ring=4080FF&currStreakLabel=3060DD&fire=4080FF"/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=Grisgram&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3060DD&icon_color=4080FF)"/><br/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Grisgram&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3060DD&icon_color=4080FF)"/><br/> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grisgram&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3060DD)"/>
 </p>
 
